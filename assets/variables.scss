@@ -1,0 +1,24 @@
+$grid-breakpoints: (
+  'xs': 0,
+  'sm': 408px,
+  'md': 768px,
+  'lg': 1200px,
+  'xl': 1410px,
+);
+
+// all colors
+$default-blue: #5c6489;
+$text-blue: #3d4653;
+$hover-blue-color: #454c69;
+$gray-color: #eaeaea;
+$gray-second: #c6c6c6;
+$gray-header-text-color: #9097a2;
+$orange-color: #f79b33;
+$link-blue: #5383ec;
+
+$menu-width: 60px;
+
+$max-screen-width: 1410px;
+$max-screen-width2: 1170px;
+$max-screen-width3: 690px;
+$max-screen-width4: 1200px;

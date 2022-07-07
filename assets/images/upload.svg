@@ -1,0 +1,9 @@
+<svg id="Component_1_1" data-name="Component 1 – 1" xmlns="http://www.w3.org/2000/svg" width="151" height="150" viewBox="0 0 151 150">
+  <path id="Icon_material-file-upload" data-name="Icon material-file-upload" d="M21.544,50.144H42.611V29.077H56.655L32.077,4.5,7.5,29.077H21.544ZM7.5,57.166H56.655v7.022H7.5Z" transform="translate(43.701 22.667)" fill="#9d0000"/>
+  <text id="Upload_ACT_Word_Document" data-name="Upload ACT Word 
+Document" transform="translate(75 120)" fill="#5c6489" font-size="14" font-family="Roboto-Bold, Roboto" font-weight="700" letter-spacing="0.004em"><tspan x="-57.514" y="0">Upload ACT Word </tspan><tspan x="-32.408" y="15">Document</tspan></text>
+  <g id="Rectangle_3271" data-name="Rectangle 3271" fill="none" stroke="#5c6489" stroke-width="3">
+    <rect width="151" height="150" rx="24" stroke="none"/>
+    <rect x="1.5" y="1.5" width="148" height="147" rx="22.5" fill="none"/>
+  </g>
+</svg>

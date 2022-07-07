@@ -1,0 +1,45 @@
+html,
+body {
+  background: #e5e5e5;
+}
+
+img {
+  width: 100%;
+}
+
+html .v-application--wrap {
+  display: flex;
+  flex-direction: row;
+
+  .v-main {
+    margin-left: $menu-width;
+  }
+}
+
+p,
+html .v-application p {
+  margin: 0;
+}
+
+.options {
+  max-width: 430px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 50px 0;
+
+  button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: $default-blue;
+    font-weight: 500;
+
+    &.withBackground {
+      background: $default-blue;
+      color: white;
+      padding: 5px 10px;
+      border-radius: 5px;
+    }
+  }
+}
